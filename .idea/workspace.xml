@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f69df00-ac06-4fc2-974e-92649887330f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.0\conf\setting.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y92fAppE5cRzCAK1xLR5M99QUO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.synnex.springboot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea-workspace\springboot\src\main\resources" />
+      <recent name="E:\idea-workspace\springboot\src\main\webapp\WEB-INF\views" />
+      <recent name="E:\idea-workspace\springboot\src\main\webapp\WEB-INF" />
+      <recent name="E:\idea-workspace\springboot\src\main\webapp" />
+      <recent name="E:\idea-workspace\springboot\src\main\resources\cn\itsource\springboot\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.synnex.springboot.SpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\17821\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f69df00-ac06-4fc2-974e-92649887330f" name="Default Changelist" comment="" />
+      <created>1582340589415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582340589415</updated>
+      <workItem from="1582340594413" duration="2955000" />
+      <workItem from="1582343585394" duration="3359000" />
+      <workItem from="1582443962502" duration="11823000" />
+      <workItem from="1582467896620" duration="2481000" />
+      <workItem from="1582510272228" duration="16000" />
+      <workItem from="1582515625268" duration="655000" />
+      <workItem from="1587119316153" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Custom_Plugin_Repositories" timestamp="1582343272187">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Custom_Plugin_Repositories/0.0.1280.680@0.0.1280.680" timestamp="1582343272187" />
+    <state x="233" y="3" key="#Inspections" timestamp="1582446115176">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1582446115176" />
+    <state x="256" y="5" key="#Notifications" timestamp="1582467430498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="256" y="5" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1582467430498" />
+    <state x="294" y="269" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582342622500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="294" y="269" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1582342622500" />
+    <state x="430" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582342624106">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1582342624106" />
+    <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582462279380">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="91" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1582462279380" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1587119665388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587119665388" />
+    <state x="531" y="240" width="270" height="280" key="Github.ShareDialog" timestamp="1582468227901">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="531" y="240" width="270" height="280" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1582468227901" />
+    <state width="1202" height="184" key="GridCell.Tab.0.bottom" timestamp="1582522414269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582522414269" />
+    <state width="1202" height="184" key="GridCell.Tab.0.center" timestamp="1582522414269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582522414269" />
+    <state width="1202" height="184" key="GridCell.Tab.0.left" timestamp="1582522414269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582522414269" />
+    <state width="1202" height="184" key="GridCell.Tab.0.right" timestamp="1582522414269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582522414269" />
+    <state width="1202" height="184" key="GridCell.Tab.1.bottom" timestamp="1582522414270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582522414270" />
+    <state width="1202" height="184" key="GridCell.Tab.1.center" timestamp="1582522414270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582522414270" />
+    <state width="1202" height="184" key="GridCell.Tab.1.left" timestamp="1582522414269">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582522414269" />
+    <state width="1202" height="184" key="GridCell.Tab.1.right" timestamp="1582522414270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582522414270" />
+    <state width="1202" height="184" key="GridCell.Tab.2.bottom" timestamp="1582522414270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582522414270" />
+    <state width="1202" height="184" key="GridCell.Tab.2.center" timestamp="1582522414270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1582522414270" />
+    <state width="1202" height="184" key="GridCell.Tab.2.left" timestamp="1582522414270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1582522414270" />
+    <state width="1202" height="184" key="GridCell.Tab.2.right" timestamp="1582522414270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="184" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1582522414270" />
+    <state x="266" y="0" key="SettingsEditor" timestamp="1582467748434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="266" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582467748434" />
+    <state x="461" y="125" key="chooseDestDirectoryDialog" timestamp="1582462298193">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="461" y="125" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1582462298193" />
+    <state x="365" y="96" width="617" height="490" key="find.popup" timestamp="1582461589168">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="365" y="96" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1582461589168" />
+  </component>
+</project>
